@@ -1,20 +1,8 @@
-# Getting Started
+笔记：https://www.yuque.com/docs/share/5eaedffc-42ea-4aa8-b0db-9b7005b5b387?# 《秒杀》密码：zxuq
+From：https://github.com/JiHaiChannel/demo
 
-### Reference Documentation
+相关视频：
 
-For further reference, please consider the following sections:
-
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.7.0/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.7.0/maven-plugin/reference/html/#build-image)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.7.0/reference/htmlsingle/#using.devtools)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.7.0/reference/htmlsingle/#web)
-
-### Guides
-
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-
+https://www.bilibili.com/video/BV1g34y1h71Y/?spm_id_from=333.788
+https://www.bilibili.com/video/BV1Hv4y1P7ta?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1TW4y1C7Q3/?spm_id_from=333.788
